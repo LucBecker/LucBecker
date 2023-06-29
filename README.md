@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-	Here's my <a href="https://lucasbecker.vercel.app/" target="_blank">Portfolio</a>
+	<h2> <i> My name is Lucas Becker! Here's my <a href="https://lucasbecker.vercel.app/" target="_blank">Portfolio</a> - it's a code-tastic!</i></h2>
+	
   <img height="520px" src="https://github.com/LucBecker/authentication-tokens-JWT/blob/master/src/imd-readmelucbecker.gif?raw=true" />
 
 <p align="center">
