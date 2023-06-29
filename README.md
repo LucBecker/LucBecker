@@ -1,9 +1,9 @@
 <div>
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 Friend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 </div>
-
+<p align="center">
 	<h2> <i> My name is Lucas Becker! Here's my <a href="https://lucasbecker.vercel.app/" target="_blank">Portfolio</a> - it's a code-tastic!</i></h2>
-
+</p>
 <p align="center">	
   <img height="520px" src="https://github.com/LucBecker/authentication-tokens-JWT/blob/master/src/imd-readmelucbecker.gif?raw=true" />
 </p>
