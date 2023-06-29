@@ -7,6 +7,8 @@
 	
   <img height="520px" src="https://github.com/LucBecker/authentication-tokens-JWT/blob/master/src/imd-readmelucbecker.gif?raw=true" />
 
+</p>
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/lucas-becker-712237169/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   	<a href="https://github.com/LucBecker"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
